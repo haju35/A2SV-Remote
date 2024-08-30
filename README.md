@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/haju35/A2SV-Remote/tree/master/0020-valid-parentheses) |
+| [0344-reverse-string](https://github.com/haju35/A2SV-Remote/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/haju35/A2SV-Remote/tree/master/0412-fizz-buzz) |
 | [0874-backspace-string-compare](https://github.com/haju35/A2SV-Remote/tree/master/0874-backspace-string-compare) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/haju35/A2SV-Remote/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0344-reverse-string](https://github.com/haju35/A2SV-Remote/tree/master/0344-reverse-string) |
 | [0874-backspace-string-compare](https://github.com/haju35/A2SV-Remote/tree/master/0874-backspace-string-compare) |
 | [1894-merge-strings-alternately](https://github.com/haju35/A2SV-Remote/tree/master/1894-merge-strings-alternately) |
 | [2442-number-of-arithmetic-triplets](https://github.com/haju35/A2SV-Remote/tree/master/2442-number-of-arithmetic-triplets) |
