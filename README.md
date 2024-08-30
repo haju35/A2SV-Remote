@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0682-baseball-game](https://github.com/haju35/A2SV-Remote/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/haju35/A2SV-Remote/tree/master/0739-daily-temperatures) |
+| [1582-design-browser-history](https://github.com/haju35/A2SV-Remote/tree/master/1582-design-browser-history) |
 | [1635-number-of-good-pairs](https://github.com/haju35/A2SV-Remote/tree/master/1635-number-of-good-pairs) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/haju35/A2SV-Remote/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2442-number-of-arithmetic-triplets](https://github.com/haju35/A2SV-Remote/tree/master/2442-number-of-arithmetic-triplets) |
@@ -63,8 +64,25 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/haju35/A2SV-Remote/tree/master/0739-daily-temperatures) |
 | [0874-backspace-string-compare](https://github.com/haju35/A2SV-Remote/tree/master/0874-backspace-string-compare) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/haju35/A2SV-Remote/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
+| [1582-design-browser-history](https://github.com/haju35/A2SV-Remote/tree/master/1582-design-browser-history) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/haju35/A2SV-Remote/tree/master/0739-daily-temperatures) |
+## Linked List
+|  |
+| ------- |
+| [1582-design-browser-history](https://github.com/haju35/A2SV-Remote/tree/master/1582-design-browser-history) |
+## Design
+|  |
+| ------- |
+| [1582-design-browser-history](https://github.com/haju35/A2SV-Remote/tree/master/1582-design-browser-history) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [1582-design-browser-history](https://github.com/haju35/A2SV-Remote/tree/master/1582-design-browser-history) |
+## Data Stream
+|  |
+| ------- |
+| [1582-design-browser-history](https://github.com/haju35/A2SV-Remote/tree/master/1582-design-browser-history) |
 <!---LeetCode Topics End-->
