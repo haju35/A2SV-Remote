@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/haju35/A2SV-Remote/tree/master/0011-container-with-most-water) |
 | [0088-merge-sorted-array](https://github.com/haju35/A2SV-Remote/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/haju35/A2SV-Remote/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/haju35/A2SV-Remote/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/haju35/A2SV-Remote/tree/master/0283-move-zeroes) |
 | [0682-baseball-game](https://github.com/haju35/A2SV-Remote/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/haju35/A2SV-Remote/tree/master/0739-daily-temperatures) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/haju35/A2SV-Remote/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/haju35/A2SV-Remote/tree/master/0217-contains-duplicate) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/haju35/A2SV-Remote/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1635-number-of-good-pairs](https://github.com/haju35/A2SV-Remote/tree/master/1635-number-of-good-pairs) |
 | [2427-first-letter-to-appear-twice](https://github.com/haju35/A2SV-Remote/tree/master/2427-first-letter-to-appear-twice) |
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/haju35/A2SV-Remote/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/haju35/A2SV-Remote/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/haju35/A2SV-Remote/tree/master/0217-contains-duplicate) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/haju35/A2SV-Remote/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 ## Greedy
 |  |
