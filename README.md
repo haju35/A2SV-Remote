@@ -166,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/haju35/A2SV-Remote/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/haju35/A2SV-Remote/tree/master/0141-linked-list-cycle) |
 | [1582-design-browser-history](https://github.com/haju35/A2SV-Remote/tree/master/1582-design-browser-history) |
 ## Design
@@ -270,4 +271,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/haju35/A2SV-Remote/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Recursion
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/haju35/A2SV-Remote/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
