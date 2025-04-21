@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/haju35/A2SV-Remote/tree/master/0013-roman-to-integer) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/haju35/A2SV-Remote/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0202-happy-number](https://github.com/haju35/A2SV-Remote/tree/master/0202-happy-number) |
 | [0412-fizz-buzz](https://github.com/haju35/A2SV-Remote/tree/master/0412-fizz-buzz) |
 | [1635-number-of-good-pairs](https://github.com/haju35/A2SV-Remote/tree/master/1635-number-of-good-pairs) |
 | [2491-smallest-even-multiple](https://github.com/haju35/A2SV-Remote/tree/master/2491-smallest-even-multiple) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/haju35/A2SV-Remote/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/haju35/A2SV-Remote/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/haju35/A2SV-Remote/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/haju35/A2SV-Remote/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/haju35/A2SV-Remote/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/haju35/A2SV-Remote/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/haju35/A2SV-Remote/tree/master/0242-valid-anagram) |
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/haju35/A2SV-Remote/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/haju35/A2SV-Remote/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/haju35/A2SV-Remote/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0202-happy-number](https://github.com/haju35/A2SV-Remote/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/haju35/A2SV-Remote/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/haju35/A2SV-Remote/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/haju35/A2SV-Remote/tree/master/0392-is-subsequence) |
