@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/haju35/A2SV-Remote/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/haju35/A2SV-Remote/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/haju35/A2SV-Remote/tree/master/0344-reverse-string) |
+| [0392-is-subsequence](https://github.com/haju35/A2SV-Remote/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/haju35/A2SV-Remote/tree/master/0412-fizz-buzz) |
 | [0424-longest-repeating-character-replacement](https://github.com/haju35/A2SV-Remote/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/haju35/A2SV-Remote/tree/master/0567-permutation-in-string) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/haju35/A2SV-Remote/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/haju35/A2SV-Remote/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/haju35/A2SV-Remote/tree/master/0344-reverse-string) |
+| [0392-is-subsequence](https://github.com/haju35/A2SV-Remote/tree/master/0392-is-subsequence) |
 | [0567-permutation-in-string](https://github.com/haju35/A2SV-Remote/tree/master/0567-permutation-in-string) |
 | [0874-backspace-string-compare](https://github.com/haju35/A2SV-Remote/tree/master/0874-backspace-string-compare) |
 | [1894-merge-strings-alternately](https://github.com/haju35/A2SV-Remote/tree/master/1894-merge-strings-alternately) |
@@ -222,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/haju35/A2SV-Remote/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/haju35/A2SV-Remote/tree/master/0042-trapping-rain-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/haju35/A2SV-Remote/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0392-is-subsequence](https://github.com/haju35/A2SV-Remote/tree/master/0392-is-subsequence) |
 ## Sliding Window
 |  |
 | ------- |
