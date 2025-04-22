@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/haju35/A2SV-Remote/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/haju35/A2SV-Remote/tree/master/0171-excel-sheet-column-number) |
 | [0202-happy-number](https://github.com/haju35/A2SV-Remote/tree/master/0202-happy-number) |
+| [0231-power-of-two](https://github.com/haju35/A2SV-Remote/tree/master/0231-power-of-two) |
 | [0412-fizz-buzz](https://github.com/haju35/A2SV-Remote/tree/master/0412-fizz-buzz) |
 | [1635-number-of-good-pairs](https://github.com/haju35/A2SV-Remote/tree/master/1635-number-of-good-pairs) |
 | [2491-smallest-even-multiple](https://github.com/haju35/A2SV-Remote/tree/master/2491-smallest-even-multiple) |
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/haju35/A2SV-Remote/tree/master/0222-count-complete-tree-nodes) |
+| [0231-power-of-two](https://github.com/haju35/A2SV-Remote/tree/master/0231-power-of-two) |
 | [2427-first-letter-to-appear-twice](https://github.com/haju35/A2SV-Remote/tree/master/2427-first-letter-to-appear-twice) |
 ## Divide and Conquer
 |  |
@@ -286,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/haju35/A2SV-Remote/tree/master/0021-merge-two-sorted-lists) |
+| [0231-power-of-two](https://github.com/haju35/A2SV-Remote/tree/master/0231-power-of-two) |
 ## Tree
 |  |
 | ------- |
