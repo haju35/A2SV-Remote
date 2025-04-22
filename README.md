@@ -200,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0222-count-complete-tree-nodes](https://github.com/haju35/A2SV-Remote/tree/master/0222-count-complete-tree-nodes) |
 | [2427-first-letter-to-appear-twice](https://github.com/haju35/A2SV-Remote/tree/master/2427-first-letter-to-appear-twice) |
 ## Divide and Conquer
 |  |
@@ -235,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/haju35/A2SV-Remote/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0222-count-complete-tree-nodes](https://github.com/haju35/A2SV-Remote/tree/master/0222-count-complete-tree-nodes) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -283,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/haju35/A2SV-Remote/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/haju35/A2SV-Remote/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/haju35/A2SV-Remote/tree/master/0112-path-sum) |
+| [0222-count-complete-tree-nodes](https://github.com/haju35/A2SV-Remote/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/haju35/A2SV-Remote/tree/master/0226-invert-binary-tree) |
 ## Depth-First Search
 |  |
@@ -310,5 +313,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/haju35/A2SV-Remote/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/haju35/A2SV-Remote/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/haju35/A2SV-Remote/tree/master/0112-path-sum) |
+| [0222-count-complete-tree-nodes](https://github.com/haju35/A2SV-Remote/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/haju35/A2SV-Remote/tree/master/0226-invert-binary-tree) |
 <!---LeetCode Topics End-->
