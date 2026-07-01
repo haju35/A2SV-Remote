@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/haju35/A2SV-Remote/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/haju35/A2SV-Remote/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/haju35/A2SV-Remote/tree/master/0037-sudoku-solver) |
+| [0041-first-missing-positive](https://github.com/haju35/A2SV-Remote/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/haju35/A2SV-Remote/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/haju35/A2SV-Remote/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/haju35/A2SV-Remote/tree/master/0088-merge-sorted-array) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0030-substring-with-concatenation-of-all-words](https://github.com/haju35/A2SV-Remote/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0036-valid-sudoku](https://github.com/haju35/A2SV-Remote/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/haju35/A2SV-Remote/tree/master/0037-sudoku-solver) |
+| [0041-first-missing-positive](https://github.com/haju35/A2SV-Remote/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/haju35/A2SV-Remote/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/haju35/A2SV-Remote/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/haju35/A2SV-Remote/tree/master/0128-longest-consecutive-sequence) |
