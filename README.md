@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/haju35/A2SV-Remote/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/haju35/A2SV-Remote/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/haju35/A2SV-Remote/tree/master/0290-word-pattern) |
+| [0299-bulls-and-cows](https://github.com/haju35/A2SV-Remote/tree/master/0299-bulls-and-cows) |
 | [0344-reverse-string](https://github.com/haju35/A2SV-Remote/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/haju35/A2SV-Remote/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/haju35/A2SV-Remote/tree/master/0392-is-subsequence) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/haju35/A2SV-Remote/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/haju35/A2SV-Remote/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/haju35/A2SV-Remote/tree/master/0290-word-pattern) |
+| [0299-bulls-and-cows](https://github.com/haju35/A2SV-Remote/tree/master/0299-bulls-and-cows) |
 | [0347-top-k-frequent-elements](https://github.com/haju35/A2SV-Remote/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/haju35/A2SV-Remote/tree/master/0383-ransom-note) |
 | [0424-longest-repeating-character-replacement](https://github.com/haju35/A2SV-Remote/tree/master/0424-longest-repeating-character-replacement) |
@@ -137,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/haju35/A2SV-Remote/tree/master/0169-majority-element) |
+| [0299-bulls-and-cows](https://github.com/haju35/A2SV-Remote/tree/master/0299-bulls-and-cows) |
 | [0347-top-k-frequent-elements](https://github.com/haju35/A2SV-Remote/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/haju35/A2SV-Remote/tree/master/0383-ransom-note) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/haju35/A2SV-Remote/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
