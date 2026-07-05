@@ -162,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/haju35/A2SV-Remote/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/haju35/A2SV-Remote/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/haju35/A2SV-Remote/tree/master/0141-linked-list-cycle) |
+| [0148-sort-list](https://github.com/haju35/A2SV-Remote/tree/master/0148-sort-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/haju35/A2SV-Remote/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/haju35/A2SV-Remote/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/haju35/A2SV-Remote/tree/master/0283-move-zeroes) |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/haju35/A2SV-Remote/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/haju35/A2SV-Remote/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/haju35/A2SV-Remote/tree/master/0141-linked-list-cycle) |
+| [0148-sort-list](https://github.com/haju35/A2SV-Remote/tree/master/0148-sort-list) |
 | [1582-design-browser-history](https://github.com/haju35/A2SV-Remote/tree/master/1582-design-browser-history) |
 ## Design
 |  |
@@ -227,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/haju35/A2SV-Remote/tree/master/0018-4sum) |
 | [0049-group-anagrams](https://github.com/haju35/A2SV-Remote/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/haju35/A2SV-Remote/tree/master/0088-merge-sorted-array) |
+| [0148-sort-list](https://github.com/haju35/A2SV-Remote/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/haju35/A2SV-Remote/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/haju35/A2SV-Remote/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/haju35/A2SV-Remote/tree/master/0242-valid-anagram) |
@@ -246,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/haju35/A2SV-Remote/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/haju35/A2SV-Remote/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/haju35/A2SV-Remote/tree/master/0347-top-k-frequent-elements) |
 ## Heap (Priority Queue)
@@ -374,4 +378,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/haju35/A2SV-Remote/tree/master/0145-binary-tree-postorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/haju35/A2SV-Remote/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/haju35/A2SV-Remote/tree/master/0226-invert-binary-tree) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/haju35/A2SV-Remote/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
