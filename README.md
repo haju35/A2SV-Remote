@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0038-count-and-say](https://github.com/haju35/A2SV-Remote/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/haju35/A2SV-Remote/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/haju35/A2SV-Remote/tree/master/0058-length-of-last-word) |
+| [0071-simplify-path](https://github.com/haju35/A2SV-Remote/tree/master/0071-simplify-path) |
 | [0076-minimum-window-substring](https://github.com/haju35/A2SV-Remote/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/haju35/A2SV-Remote/tree/master/0125-valid-palindrome) |
 | [0168-excel-sheet-column-title](https://github.com/haju35/A2SV-Remote/tree/master/0168-excel-sheet-column-title) |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/haju35/A2SV-Remote/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/haju35/A2SV-Remote/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/haju35/A2SV-Remote/tree/master/0042-trapping-rain-water) |
+| [0071-simplify-path](https://github.com/haju35/A2SV-Remote/tree/master/0071-simplify-path) |
 | [0144-binary-tree-preorder-traversal](https://github.com/haju35/A2SV-Remote/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/haju35/A2SV-Remote/tree/master/0145-binary-tree-postorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/haju35/A2SV-Remote/tree/master/0150-evaluate-reverse-polish-notation) |
