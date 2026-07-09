@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/haju35/A2SV-Remote/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/haju35/A2SV-Remote/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/haju35/A2SV-Remote/tree/master/0029-divide-two-integers) |
+| [0043-multiply-strings](https://github.com/haju35/A2SV-Remote/tree/master/0043-multiply-strings) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/haju35/A2SV-Remote/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0168-excel-sheet-column-title](https://github.com/haju35/A2SV-Remote/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/haju35/A2SV-Remote/tree/master/0171-excel-sheet-column-number) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0030-substring-with-concatenation-of-all-words](https://github.com/haju35/A2SV-Remote/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0032-longest-valid-parentheses](https://github.com/haju35/A2SV-Remote/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/haju35/A2SV-Remote/tree/master/0038-count-and-say) |
+| [0043-multiply-strings](https://github.com/haju35/A2SV-Remote/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/haju35/A2SV-Remote/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/haju35/A2SV-Remote/tree/master/0058-length-of-last-word) |
 | [0071-simplify-path](https://github.com/haju35/A2SV-Remote/tree/master/0071-simplify-path) |
@@ -58,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/haju35/A2SV-Remote/tree/master/0043-multiply-strings) |
 | [0412-fizz-buzz](https://github.com/haju35/A2SV-Remote/tree/master/0412-fizz-buzz) |
 | [0682-baseball-game](https://github.com/haju35/A2SV-Remote/tree/master/0682-baseball-game) |
 | [0874-backspace-string-compare](https://github.com/haju35/A2SV-Remote/tree/master/0874-backspace-string-compare) |
