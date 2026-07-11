@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/haju35/A2SV-Remote/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/haju35/A2SV-Remote/tree/master/0412-fizz-buzz) |
 | [0424-longest-repeating-character-replacement](https://github.com/haju35/A2SV-Remote/tree/master/0424-longest-repeating-character-replacement) |
+| [0500-keyboard-row](https://github.com/haju35/A2SV-Remote/tree/master/0500-keyboard-row) |
 | [0567-permutation-in-string](https://github.com/haju35/A2SV-Remote/tree/master/0567-permutation-in-string) |
 | [0874-backspace-string-compare](https://github.com/haju35/A2SV-Remote/tree/master/0874-backspace-string-compare) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/haju35/A2SV-Remote/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/haju35/A2SV-Remote/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/haju35/A2SV-Remote/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/haju35/A2SV-Remote/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0500-keyboard-row](https://github.com/haju35/A2SV-Remote/tree/master/0500-keyboard-row) |
 | [0682-baseball-game](https://github.com/haju35/A2SV-Remote/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/haju35/A2SV-Remote/tree/master/0739-daily-temperatures) |
 | [0883-car-fleet](https://github.com/haju35/A2SV-Remote/tree/master/0883-car-fleet) |
@@ -144,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/haju35/A2SV-Remote/tree/master/0383-ransom-note) |
 | [0424-longest-repeating-character-replacement](https://github.com/haju35/A2SV-Remote/tree/master/0424-longest-repeating-character-replacement) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/haju35/A2SV-Remote/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0500-keyboard-row](https://github.com/haju35/A2SV-Remote/tree/master/0500-keyboard-row) |
 | [0567-permutation-in-string](https://github.com/haju35/A2SV-Remote/tree/master/0567-permutation-in-string) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/haju35/A2SV-Remote/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1635-number-of-good-pairs](https://github.com/haju35/A2SV-Remote/tree/master/1635-number-of-good-pairs) |
