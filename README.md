@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/haju35/A2SV-Remote/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/haju35/A2SV-Remote/tree/master/0739-daily-temperatures) |
 | [0883-car-fleet](https://github.com/haju35/A2SV-Remote/tree/master/0883-car-fleet) |
+| [1402-reducing-dishes](https://github.com/haju35/A2SV-Remote/tree/master/1402-reducing-dishes) |
 | [1403-minimum-subsequence-in-non-increasing-order](https://github.com/haju35/A2SV-Remote/tree/master/1403-minimum-subsequence-in-non-increasing-order) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/haju35/A2SV-Remote/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1582-design-browser-history](https://github.com/haju35/A2SV-Remote/tree/master/1582-design-browser-history) |
@@ -254,12 +255,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/haju35/A2SV-Remote/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/haju35/A2SV-Remote/tree/master/0349-intersection-of-two-arrays) |
 | [0883-car-fleet](https://github.com/haju35/A2SV-Remote/tree/master/0883-car-fleet) |
+| [1402-reducing-dishes](https://github.com/haju35/A2SV-Remote/tree/master/1402-reducing-dishes) |
 | [1403-minimum-subsequence-in-non-increasing-order](https://github.com/haju35/A2SV-Remote/tree/master/1403-minimum-subsequence-in-non-increasing-order) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/haju35/A2SV-Remote/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 ## Greedy
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/haju35/A2SV-Remote/tree/master/0011-container-with-most-water) |
+| [1402-reducing-dishes](https://github.com/haju35/A2SV-Remote/tree/master/1402-reducing-dishes) |
 | [1403-minimum-subsequence-in-non-increasing-order](https://github.com/haju35/A2SV-Remote/tree/master/1403-minimum-subsequence-in-non-increasing-order) |
 ## Bit Manipulation
 |  |
@@ -318,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/haju35/A2SV-Remote/tree/master/0042-trapping-rain-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/haju35/A2SV-Remote/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/haju35/A2SV-Remote/tree/master/0392-is-subsequence) |
+| [1402-reducing-dishes](https://github.com/haju35/A2SV-Remote/tree/master/1402-reducing-dishes) |
 ## Sliding Window
 |  |
 | ------- |
