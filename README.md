@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/haju35/A2SV-Remote/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/haju35/A2SV-Remote/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/haju35/A2SV-Remote/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0496-next-greater-element-i](https://github.com/haju35/A2SV-Remote/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/haju35/A2SV-Remote/tree/master/0500-keyboard-row) |
 | [0682-baseball-game](https://github.com/haju35/A2SV-Remote/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/haju35/A2SV-Remote/tree/master/0739-daily-temperatures) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/haju35/A2SV-Remote/tree/master/0383-ransom-note) |
 | [0424-longest-repeating-character-replacement](https://github.com/haju35/A2SV-Remote/tree/master/0424-longest-repeating-character-replacement) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/haju35/A2SV-Remote/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0496-next-greater-element-i](https://github.com/haju35/A2SV-Remote/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/haju35/A2SV-Remote/tree/master/0500-keyboard-row) |
 | [0567-permutation-in-string](https://github.com/haju35/A2SV-Remote/tree/master/0567-permutation-in-string) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/haju35/A2SV-Remote/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -207,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/haju35/A2SV-Remote/tree/master/0145-binary-tree-postorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/haju35/A2SV-Remote/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/haju35/A2SV-Remote/tree/master/0155-min-stack) |
+| [0496-next-greater-element-i](https://github.com/haju35/A2SV-Remote/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/haju35/A2SV-Remote/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/haju35/A2SV-Remote/tree/master/0739-daily-temperatures) |
 | [0874-backspace-string-compare](https://github.com/haju35/A2SV-Remote/tree/master/0874-backspace-string-compare) |
@@ -217,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/haju35/A2SV-Remote/tree/master/0042-trapping-rain-water) |
+| [0496-next-greater-element-i](https://github.com/haju35/A2SV-Remote/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/haju35/A2SV-Remote/tree/master/0739-daily-temperatures) |
 | [0883-car-fleet](https://github.com/haju35/A2SV-Remote/tree/master/0883-car-fleet) |
 ## Linked List
