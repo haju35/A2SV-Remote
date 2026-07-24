@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0336-palindrome-pairs](https://github.com/haju35/A2SV-Remote/tree/master/0336-palindrome-pairs) |
 | [0347-top-k-frequent-elements](https://github.com/haju35/A2SV-Remote/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/haju35/A2SV-Remote/tree/master/0349-intersection-of-two-arrays) |
+| [0414-third-maximum-number](https://github.com/haju35/A2SV-Remote/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/haju35/A2SV-Remote/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/haju35/A2SV-Remote/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/haju35/A2SV-Remote/tree/master/0496-next-greater-element-i) |
@@ -271,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/haju35/A2SV-Remote/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/haju35/A2SV-Remote/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/haju35/A2SV-Remote/tree/master/0349-intersection-of-two-arrays) |
+| [0414-third-maximum-number](https://github.com/haju35/A2SV-Remote/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/haju35/A2SV-Remote/tree/master/0455-assign-cookies) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/haju35/A2SV-Remote/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0883-car-fleet](https://github.com/haju35/A2SV-Remote/tree/master/0883-car-fleet) |
