@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/haju35/A2SV-Remote/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1582-design-browser-history](https://github.com/haju35/A2SV-Remote/tree/master/1582-design-browser-history) |
 | [1635-number-of-good-pairs](https://github.com/haju35/A2SV-Remote/tree/master/1635-number-of-good-pairs) |
+| [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/haju35/A2SV-Remote/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/haju35/A2SV-Remote/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/haju35/A2SV-Remote/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2442-number-of-arithmetic-triplets](https://github.com/haju35/A2SV-Remote/tree/master/2442-number-of-arithmetic-triplets) |
@@ -282,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1402-reducing-dishes](https://github.com/haju35/A2SV-Remote/tree/master/1402-reducing-dishes) |
 | [1403-minimum-subsequence-in-non-increasing-order](https://github.com/haju35/A2SV-Remote/tree/master/1403-minimum-subsequence-in-non-increasing-order) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/haju35/A2SV-Remote/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/haju35/A2SV-Remote/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 ## Greedy
 |  |
 | ------- |
@@ -290,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/haju35/A2SV-Remote/tree/master/0561-array-partition) |
 | [1402-reducing-dishes](https://github.com/haju35/A2SV-Remote/tree/master/1402-reducing-dishes) |
 | [1403-minimum-subsequence-in-non-increasing-order](https://github.com/haju35/A2SV-Remote/tree/master/1403-minimum-subsequence-in-non-increasing-order) |
+| [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/haju35/A2SV-Remote/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -454,4 +457,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/haju35/A2SV-Remote/tree/master/0561-array-partition) |
+| [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/haju35/A2SV-Remote/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 <!---LeetCode Topics End-->
