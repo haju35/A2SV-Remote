@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/haju35/A2SV-Remote/tree/master/0561-array-partition) |
 | [0645-set-mismatch](https://github.com/haju35/A2SV-Remote/tree/master/0645-set-mismatch) |
 | [0682-baseball-game](https://github.com/haju35/A2SV-Remote/tree/master/0682-baseball-game) |
+| [0724-find-pivot-index](https://github.com/haju35/A2SV-Remote/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/haju35/A2SV-Remote/tree/master/0739-daily-temperatures) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/haju35/A2SV-Remote/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/haju35/A2SV-Remote/tree/master/0747-largest-number-at-least-twice-of-others) |
@@ -328,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/haju35/A2SV-Remote/tree/master/0238-product-of-array-except-self) |
+| [0724-find-pivot-index](https://github.com/haju35/A2SV-Remote/tree/master/0724-find-pivot-index) |
 ## Matrix
 |  |
 | ------- |
