@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0187-repeated-dna-sequences](https://github.com/haju35/A2SV-Remote/tree/master/0187-repeated-dna-sequences) |
 | [0205-isomorphic-strings](https://github.com/haju35/A2SV-Remote/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/haju35/A2SV-Remote/tree/master/0242-valid-anagram) |
+| [0257-binary-tree-paths](https://github.com/haju35/A2SV-Remote/tree/master/0257-binary-tree-paths) |
 | [0290-word-pattern](https://github.com/haju35/A2SV-Remote/tree/master/0290-word-pattern) |
 | [0299-bulls-and-cows](https://github.com/haju35/A2SV-Remote/tree/master/0299-bulls-and-cows) |
 | [0336-palindrome-pairs](https://github.com/haju35/A2SV-Remote/tree/master/0336-palindrome-pairs) |
@@ -383,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/haju35/A2SV-Remote/tree/master/0022-generate-parentheses) |
 | [0037-sudoku-solver](https://github.com/haju35/A2SV-Remote/tree/master/0037-sudoku-solver) |
+| [0257-binary-tree-paths](https://github.com/haju35/A2SV-Remote/tree/master/0257-binary-tree-paths) |
 ## Trie
 |  |
 | ------- |
@@ -412,6 +414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/haju35/A2SV-Remote/tree/master/0145-binary-tree-postorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/haju35/A2SV-Remote/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/haju35/A2SV-Remote/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/haju35/A2SV-Remote/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/haju35/A2SV-Remote/tree/master/0404-sum-of-left-leaves) |
 ## Depth-First Search
 |  |
@@ -425,6 +428,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/haju35/A2SV-Remote/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/haju35/A2SV-Remote/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/haju35/A2SV-Remote/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/haju35/A2SV-Remote/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/haju35/A2SV-Remote/tree/master/0404-sum-of-left-leaves) |
 ## Breadth-First Search
 |  |
@@ -449,6 +453,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/haju35/A2SV-Remote/tree/master/0145-binary-tree-postorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/haju35/A2SV-Remote/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/haju35/A2SV-Remote/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/haju35/A2SV-Remote/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/haju35/A2SV-Remote/tree/master/0404-sum-of-left-leaves) |
 ## Merge Sort
 |  |
