@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/haju35/A2SV-Remote/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/haju35/A2SV-Remote/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/haju35/A2SV-Remote/tree/master/0455-assign-cookies) |
+| [0491-non-decreasing-subsequences](https://github.com/haju35/A2SV-Remote/tree/master/0491-non-decreasing-subsequences) |
 | [0496-next-greater-element-i](https://github.com/haju35/A2SV-Remote/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/haju35/A2SV-Remote/tree/master/0500-keyboard-row) |
 | [0561-array-partition](https://github.com/haju35/A2SV-Remote/tree/master/0561-array-partition) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/haju35/A2SV-Remote/tree/master/0383-ransom-note) |
 | [0424-longest-repeating-character-replacement](https://github.com/haju35/A2SV-Remote/tree/master/0424-longest-repeating-character-replacement) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/haju35/A2SV-Remote/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0491-non-decreasing-subsequences](https://github.com/haju35/A2SV-Remote/tree/master/0491-non-decreasing-subsequences) |
 | [0496-next-greater-element-i](https://github.com/haju35/A2SV-Remote/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/haju35/A2SV-Remote/tree/master/0500-keyboard-row) |
 | [0567-permutation-in-string](https://github.com/haju35/A2SV-Remote/tree/master/0567-permutation-in-string) |
@@ -305,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0187-repeated-dna-sequences](https://github.com/haju35/A2SV-Remote/tree/master/0187-repeated-dna-sequences) |
 | [0222-count-complete-tree-nodes](https://github.com/haju35/A2SV-Remote/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/haju35/A2SV-Remote/tree/master/0231-power-of-two) |
+| [0491-non-decreasing-subsequences](https://github.com/haju35/A2SV-Remote/tree/master/0491-non-decreasing-subsequences) |
 | [0645-set-mismatch](https://github.com/haju35/A2SV-Remote/tree/master/0645-set-mismatch) |
 | [2427-first-letter-to-appear-twice](https://github.com/haju35/A2SV-Remote/tree/master/2427-first-letter-to-appear-twice) |
 ## Divide and Conquer
@@ -385,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/haju35/A2SV-Remote/tree/master/0022-generate-parentheses) |
 | [0037-sudoku-solver](https://github.com/haju35/A2SV-Remote/tree/master/0037-sudoku-solver) |
 | [0257-binary-tree-paths](https://github.com/haju35/A2SV-Remote/tree/master/0257-binary-tree-paths) |
+| [0491-non-decreasing-subsequences](https://github.com/haju35/A2SV-Remote/tree/master/0491-non-decreasing-subsequences) |
 ## Trie
 |  |
 | ------- |
