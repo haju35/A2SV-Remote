@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/haju35/A2SV-Remote/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/haju35/A2SV-Remote/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/haju35/A2SV-Remote/tree/master/0258-add-digits) |
+| [0342-power-of-four](https://github.com/haju35/A2SV-Remote/tree/master/0342-power-of-four) |
 | [0412-fizz-buzz](https://github.com/haju35/A2SV-Remote/tree/master/0412-fizz-buzz) |
 | [1635-number-of-good-pairs](https://github.com/haju35/A2SV-Remote/tree/master/1635-number-of-good-pairs) |
 | [2491-smallest-even-multiple](https://github.com/haju35/A2SV-Remote/tree/master/2491-smallest-even-multiple) |
@@ -307,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0187-repeated-dna-sequences](https://github.com/haju35/A2SV-Remote/tree/master/0187-repeated-dna-sequences) |
 | [0222-count-complete-tree-nodes](https://github.com/haju35/A2SV-Remote/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/haju35/A2SV-Remote/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/haju35/A2SV-Remote/tree/master/0342-power-of-four) |
 | [0491-non-decreasing-subsequences](https://github.com/haju35/A2SV-Remote/tree/master/0491-non-decreasing-subsequences) |
 | [0645-set-mismatch](https://github.com/haju35/A2SV-Remote/tree/master/0645-set-mismatch) |
 | [2427-first-letter-to-appear-twice](https://github.com/haju35/A2SV-Remote/tree/master/2427-first-letter-to-appear-twice) |
@@ -405,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/haju35/A2SV-Remote/tree/master/0021-merge-two-sorted-lists) |
 | [0060-permutation-sequence](https://github.com/haju35/A2SV-Remote/tree/master/0060-permutation-sequence) |
 | [0231-power-of-two](https://github.com/haju35/A2SV-Remote/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/haju35/A2SV-Remote/tree/master/0342-power-of-four) |
 ## Tree
 |  |
 | ------- |
