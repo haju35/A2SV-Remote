@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/haju35/A2SV-Remote/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/haju35/A2SV-Remote/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/haju35/A2SV-Remote/tree/master/0258-add-digits) |
+| [0335-self-crossing](https://github.com/haju35/A2SV-Remote/tree/master/0335-self-crossing) |
 | [0342-power-of-four](https://github.com/haju35/A2SV-Remote/tree/master/0342-power-of-four) |
 | [0412-fizz-buzz](https://github.com/haju35/A2SV-Remote/tree/master/0412-fizz-buzz) |
 | [1635-number-of-good-pairs](https://github.com/haju35/A2SV-Remote/tree/master/1635-number-of-good-pairs) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/haju35/A2SV-Remote/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/haju35/A2SV-Remote/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/haju35/A2SV-Remote/tree/master/0283-move-zeroes) |
+| [0335-self-crossing](https://github.com/haju35/A2SV-Remote/tree/master/0335-self-crossing) |
 | [0336-palindrome-pairs](https://github.com/haju35/A2SV-Remote/tree/master/0336-palindrome-pairs) |
 | [0347-top-k-frequent-elements](https://github.com/haju35/A2SV-Remote/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/haju35/A2SV-Remote/tree/master/0349-intersection-of-two-arrays) |
@@ -480,4 +482,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0561-array-partition](https://github.com/haju35/A2SV-Remote/tree/master/0561-array-partition) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/haju35/A2SV-Remote/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
+## Geometry
+|  |
+| ------- |
+| [0335-self-crossing](https://github.com/haju35/A2SV-Remote/tree/master/0335-self-crossing) |
 <!---LeetCode Topics End-->
