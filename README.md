@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/haju35/A2SV-Remote/tree/master/0561-array-partition) |
 | [0645-set-mismatch](https://github.com/haju35/A2SV-Remote/tree/master/0645-set-mismatch) |
 | [0682-baseball-game](https://github.com/haju35/A2SV-Remote/tree/master/0682-baseball-game) |
+| [0706-design-hashmap](https://github.com/haju35/A2SV-Remote/tree/master/0706-design-hashmap) |
 | [0724-find-pivot-index](https://github.com/haju35/A2SV-Remote/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/haju35/A2SV-Remote/tree/master/0739-daily-temperatures) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/haju35/A2SV-Remote/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0500-keyboard-row](https://github.com/haju35/A2SV-Remote/tree/master/0500-keyboard-row) |
 | [0567-permutation-in-string](https://github.com/haju35/A2SV-Remote/tree/master/0567-permutation-in-string) |
 | [0645-set-mismatch](https://github.com/haju35/A2SV-Remote/tree/master/0645-set-mismatch) |
+| [0706-design-hashmap](https://github.com/haju35/A2SV-Remote/tree/master/0706-design-hashmap) |
 | [0888-fair-candy-swap](https://github.com/haju35/A2SV-Remote/tree/master/0888-fair-candy-swap) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/haju35/A2SV-Remote/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1635-number-of-good-pairs](https://github.com/haju35/A2SV-Remote/tree/master/1635-number-of-good-pairs) |
@@ -255,12 +257,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0083-remove-duplicates-from-sorted-list](https://github.com/haju35/A2SV-Remote/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/haju35/A2SV-Remote/tree/master/0141-linked-list-cycle) |
 | [0148-sort-list](https://github.com/haju35/A2SV-Remote/tree/master/0148-sort-list) |
+| [0706-design-hashmap](https://github.com/haju35/A2SV-Remote/tree/master/0706-design-hashmap) |
 | [1582-design-browser-history](https://github.com/haju35/A2SV-Remote/tree/master/1582-design-browser-history) |
 ## Design
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/haju35/A2SV-Remote/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/haju35/A2SV-Remote/tree/master/0232-implement-queue-using-stacks) |
+| [0706-design-hashmap](https://github.com/haju35/A2SV-Remote/tree/master/0706-design-hashmap) |
 | [1582-design-browser-history](https://github.com/haju35/A2SV-Remote/tree/master/1582-design-browser-history) |
 ## Doubly-Linked List
 |  |
@@ -476,6 +480,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/haju35/A2SV-Remote/tree/master/0187-repeated-dna-sequences) |
 | [0336-palindrome-pairs](https://github.com/haju35/A2SV-Remote/tree/master/0336-palindrome-pairs) |
+| [0706-design-hashmap](https://github.com/haju35/A2SV-Remote/tree/master/0706-design-hashmap) |
 ## Rolling Hash
 |  |
 | ------- |
