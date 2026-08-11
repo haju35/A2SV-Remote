@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/haju35/A2SV-Remote/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/haju35/A2SV-Remote/tree/master/0500-keyboard-row) |
 | [0561-array-partition](https://github.com/haju35/A2SV-Remote/tree/master/0561-array-partition) |
+| [0594-longest-harmonious-subsequence](https://github.com/haju35/A2SV-Remote/tree/master/0594-longest-harmonious-subsequence) |
 | [0645-set-mismatch](https://github.com/haju35/A2SV-Remote/tree/master/0645-set-mismatch) |
 | [0682-baseball-game](https://github.com/haju35/A2SV-Remote/tree/master/0682-baseball-game) |
 | [0706-design-hashmap](https://github.com/haju35/A2SV-Remote/tree/master/0706-design-hashmap) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/haju35/A2SV-Remote/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/haju35/A2SV-Remote/tree/master/0500-keyboard-row) |
 | [0567-permutation-in-string](https://github.com/haju35/A2SV-Remote/tree/master/0567-permutation-in-string) |
+| [0594-longest-harmonious-subsequence](https://github.com/haju35/A2SV-Remote/tree/master/0594-longest-harmonious-subsequence) |
 | [0645-set-mismatch](https://github.com/haju35/A2SV-Remote/tree/master/0645-set-mismatch) |
 | [0706-design-hashmap](https://github.com/haju35/A2SV-Remote/tree/master/0706-design-hashmap) |
 | [0888-fair-candy-swap](https://github.com/haju35/A2SV-Remote/tree/master/0888-fair-candy-swap) |
@@ -188,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0299-bulls-and-cows](https://github.com/haju35/A2SV-Remote/tree/master/0299-bulls-and-cows) |
 | [0347-top-k-frequent-elements](https://github.com/haju35/A2SV-Remote/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/haju35/A2SV-Remote/tree/master/0383-ransom-note) |
+| [0594-longest-harmonious-subsequence](https://github.com/haju35/A2SV-Remote/tree/master/0594-longest-harmonious-subsequence) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/haju35/A2SV-Remote/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1635-number-of-good-pairs](https://github.com/haju35/A2SV-Remote/tree/master/1635-number-of-good-pairs) |
 | [2427-first-letter-to-appear-twice](https://github.com/haju35/A2SV-Remote/tree/master/2427-first-letter-to-appear-twice) |
@@ -292,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/haju35/A2SV-Remote/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/haju35/A2SV-Remote/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/haju35/A2SV-Remote/tree/master/0561-array-partition) |
+| [0594-longest-harmonious-subsequence](https://github.com/haju35/A2SV-Remote/tree/master/0594-longest-harmonious-subsequence) |
 | [0645-set-mismatch](https://github.com/haju35/A2SV-Remote/tree/master/0645-set-mismatch) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/haju35/A2SV-Remote/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0883-car-fleet](https://github.com/haju35/A2SV-Remote/tree/master/0883-car-fleet) |
@@ -384,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/haju35/A2SV-Remote/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/haju35/A2SV-Remote/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/haju35/A2SV-Remote/tree/master/0567-permutation-in-string) |
+| [0594-longest-harmonious-subsequence](https://github.com/haju35/A2SV-Remote/tree/master/0594-longest-harmonious-subsequence) |
 ## Queue
 |  |
 | ------- |
