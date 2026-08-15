@@ -239,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/haju35/A2SV-Remote/tree/master/0145-binary-tree-postorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/haju35/A2SV-Remote/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/haju35/A2SV-Remote/tree/master/0155-min-stack) |
+| [0225-implement-stack-using-queues](https://github.com/haju35/A2SV-Remote/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/haju35/A2SV-Remote/tree/master/0232-implement-queue-using-stacks) |
 | [0496-next-greater-element-i](https://github.com/haju35/A2SV-Remote/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/haju35/A2SV-Remote/tree/master/0682-baseball-game) |
@@ -268,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/haju35/A2SV-Remote/tree/master/0155-min-stack) |
+| [0225-implement-stack-using-queues](https://github.com/haju35/A2SV-Remote/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/haju35/A2SV-Remote/tree/master/0232-implement-queue-using-stacks) |
 | [0706-design-hashmap](https://github.com/haju35/A2SV-Remote/tree/master/0706-design-hashmap) |
 | [1582-design-browser-history](https://github.com/haju35/A2SV-Remote/tree/master/1582-design-browser-history) |
@@ -394,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/haju35/A2SV-Remote/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/haju35/A2SV-Remote/tree/master/0232-implement-queue-using-stacks) |
 | [0239-sliding-window-maximum](https://github.com/haju35/A2SV-Remote/tree/master/0239-sliding-window-maximum) |
 ## Monotonic Queue
