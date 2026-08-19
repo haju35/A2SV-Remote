@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/haju35/A2SV-Remote/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/haju35/A2SV-Remote/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/haju35/A2SV-Remote/tree/master/0455-assign-cookies) |
+| [0475-heaters](https://github.com/haju35/A2SV-Remote/tree/master/0475-heaters) |
 | [0491-non-decreasing-subsequences](https://github.com/haju35/A2SV-Remote/tree/master/0491-non-decreasing-subsequences) |
 | [0496-next-greater-element-i](https://github.com/haju35/A2SV-Remote/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/haju35/A2SV-Remote/tree/master/0500-keyboard-row) |
@@ -219,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/haju35/A2SV-Remote/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/haju35/A2SV-Remote/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/haju35/A2SV-Remote/tree/master/0455-assign-cookies) |
+| [0475-heaters](https://github.com/haju35/A2SV-Remote/tree/master/0475-heaters) |
 | [0567-permutation-in-string](https://github.com/haju35/A2SV-Remote/tree/master/0567-permutation-in-string) |
 | [0874-backspace-string-compare](https://github.com/haju35/A2SV-Remote/tree/master/0874-backspace-string-compare) |
 | [1894-merge-strings-alternately](https://github.com/haju35/A2SV-Remote/tree/master/1894-merge-strings-alternately) |
@@ -298,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/haju35/A2SV-Remote/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/haju35/A2SV-Remote/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/haju35/A2SV-Remote/tree/master/0455-assign-cookies) |
+| [0475-heaters](https://github.com/haju35/A2SV-Remote/tree/master/0475-heaters) |
 | [0561-array-partition](https://github.com/haju35/A2SV-Remote/tree/master/0561-array-partition) |
 | [0594-longest-harmonious-subsequence](https://github.com/haju35/A2SV-Remote/tree/master/0594-longest-harmonious-subsequence) |
 | [0645-set-mismatch](https://github.com/haju35/A2SV-Remote/tree/master/0645-set-mismatch) |
@@ -370,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/haju35/A2SV-Remote/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0222-count-complete-tree-nodes](https://github.com/haju35/A2SV-Remote/tree/master/0222-count-complete-tree-nodes) |
 | [0349-intersection-of-two-arrays](https://github.com/haju35/A2SV-Remote/tree/master/0349-intersection-of-two-arrays) |
+| [0475-heaters](https://github.com/haju35/A2SV-Remote/tree/master/0475-heaters) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/haju35/A2SV-Remote/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0888-fair-candy-swap](https://github.com/haju35/A2SV-Remote/tree/master/0888-fair-candy-swap) |
 ## Dynamic Programming
