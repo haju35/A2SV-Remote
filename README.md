@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/haju35/A2SV-Remote/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/haju35/A2SV-Remote/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/haju35/A2SV-Remote/tree/master/0056-merge-intervals) |
+| [0078-subsets](https://github.com/haju35/A2SV-Remote/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/haju35/A2SV-Remote/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/haju35/A2SV-Remote/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/haju35/A2SV-Remote/tree/master/0128-longest-consecutive-sequence) |
@@ -329,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/haju35/A2SV-Remote/tree/master/0029-divide-two-integers) |
+| [0078-subsets](https://github.com/haju35/A2SV-Remote/tree/master/0078-subsets) |
 | [0187-repeated-dna-sequences](https://github.com/haju35/A2SV-Remote/tree/master/0187-repeated-dna-sequences) |
 | [0222-count-complete-tree-nodes](https://github.com/haju35/A2SV-Remote/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/haju35/A2SV-Remote/tree/master/0231-power-of-two) |
@@ -417,6 +419,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/haju35/A2SV-Remote/tree/master/0022-generate-parentheses) |
 | [0037-sudoku-solver](https://github.com/haju35/A2SV-Remote/tree/master/0037-sudoku-solver) |
+| [0078-subsets](https://github.com/haju35/A2SV-Remote/tree/master/0078-subsets) |
 | [0257-binary-tree-paths](https://github.com/haju35/A2SV-Remote/tree/master/0257-binary-tree-paths) |
 | [0491-non-decreasing-subsequences](https://github.com/haju35/A2SV-Remote/tree/master/0491-non-decreasing-subsequences) |
 ## Trie
