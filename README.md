@@ -532,4 +532,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/haju35/A2SV-Remote/tree/master/0175-combine-two-tables) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/haju35/A2SV-Remote/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
