@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/haju35/A2SV-Remote/tree/master/0071-simplify-path) |
 | [0076-minimum-window-substring](https://github.com/haju35/A2SV-Remote/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/haju35/A2SV-Remote/tree/master/0125-valid-palindrome) |
+| [0140-word-break-ii](https://github.com/haju35/A2SV-Remote/tree/master/0140-word-break-ii) |
 | [0168-excel-sheet-column-title](https://github.com/haju35/A2SV-Remote/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/haju35/A2SV-Remote/tree/master/0171-excel-sheet-column-number) |
 | [0187-repeated-dna-sequences](https://github.com/haju35/A2SV-Remote/tree/master/0187-repeated-dna-sequences) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/haju35/A2SV-Remote/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/haju35/A2SV-Remote/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/haju35/A2SV-Remote/tree/master/0128-longest-consecutive-sequence) |
+| [0140-word-break-ii](https://github.com/haju35/A2SV-Remote/tree/master/0140-word-break-ii) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/haju35/A2SV-Remote/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/haju35/A2SV-Remote/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/haju35/A2SV-Remote/tree/master/0169-majority-element) |
@@ -164,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/haju35/A2SV-Remote/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/haju35/A2SV-Remote/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/haju35/A2SV-Remote/tree/master/0128-longest-consecutive-sequence) |
+| [0140-word-break-ii](https://github.com/haju35/A2SV-Remote/tree/master/0140-word-break-ii) |
 | [0141-linked-list-cycle](https://github.com/haju35/A2SV-Remote/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/haju35/A2SV-Remote/tree/master/0169-majority-element) |
 | [0187-repeated-dna-sequences](https://github.com/haju35/A2SV-Remote/tree/master/0187-repeated-dna-sequences) |
@@ -394,6 +397,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/haju35/A2SV-Remote/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/haju35/A2SV-Remote/tree/master/0042-trapping-rain-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/haju35/A2SV-Remote/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0140-word-break-ii](https://github.com/haju35/A2SV-Remote/tree/master/0140-word-break-ii) |
 | [0392-is-subsequence](https://github.com/haju35/A2SV-Remote/tree/master/0392-is-subsequence) |
 | [1402-reducing-dishes](https://github.com/haju35/A2SV-Remote/tree/master/1402-reducing-dishes) |
 ## Sliding Window
@@ -424,12 +428,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/haju35/A2SV-Remote/tree/master/0022-generate-parentheses) |
 | [0037-sudoku-solver](https://github.com/haju35/A2SV-Remote/tree/master/0037-sudoku-solver) |
 | [0078-subsets](https://github.com/haju35/A2SV-Remote/tree/master/0078-subsets) |
+| [0140-word-break-ii](https://github.com/haju35/A2SV-Remote/tree/master/0140-word-break-ii) |
 | [0257-binary-tree-paths](https://github.com/haju35/A2SV-Remote/tree/master/0257-binary-tree-paths) |
 | [0491-non-decreasing-subsequences](https://github.com/haju35/A2SV-Remote/tree/master/0491-non-decreasing-subsequences) |
 ## Trie
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/haju35/A2SV-Remote/tree/master/0014-longest-common-prefix) |
+| [0140-word-break-ii](https://github.com/haju35/A2SV-Remote/tree/master/0140-word-break-ii) |
 | [0336-palindrome-pairs](https://github.com/haju35/A2SV-Remote/tree/master/0336-palindrome-pairs) |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/haju35/A2SV-Remote/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 ## String Matching
@@ -544,4 +550,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/haju35/A2SV-Remote/tree/master/0169-majority-element) |
+## Memoization
+|  |
+| ------- |
+| [0140-word-break-ii](https://github.com/haju35/A2SV-Remote/tree/master/0140-word-break-ii) |
 <!---LeetCode Topics End-->
