@@ -244,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2442-number-of-arithmetic-triplets](https://github.com/haju35/A2SV-Remote/tree/master/2442-number-of-arithmetic-triplets) |
+| [2749-minimum-operations-to-make-the-integer-zero](https://github.com/haju35/A2SV-Remote/tree/master/2749-minimum-operations-to-make-the-integer-zero) |
 ## Stack
 |  |
 | ------- |
@@ -347,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0491-non-decreasing-subsequences](https://github.com/haju35/A2SV-Remote/tree/master/0491-non-decreasing-subsequences) |
 | [0645-set-mismatch](https://github.com/haju35/A2SV-Remote/tree/master/0645-set-mismatch) |
 | [2427-first-letter-to-appear-twice](https://github.com/haju35/A2SV-Remote/tree/master/2427-first-letter-to-appear-twice) |
+| [2749-minimum-operations-to-make-the-integer-zero](https://github.com/haju35/A2SV-Remote/tree/master/2749-minimum-operations-to-make-the-integer-zero) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -561,4 +563,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/haju35/A2SV-Remote/tree/master/0005-longest-palindromic-substring) |
+## Brainteaser
+|  |
+| ------- |
+| [2749-minimum-operations-to-make-the-integer-zero](https://github.com/haju35/A2SV-Remote/tree/master/2749-minimum-operations-to-make-the-integer-zero) |
 <!---LeetCode Topics End-->
