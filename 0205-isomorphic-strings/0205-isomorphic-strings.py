@@ -1,11 +1,22 @@
 class Solution:
     def isIsomorphic(self, s: str, t: str) -> bool:
-        mapST, mapTS = {},{}
+        if len(s) != len(t):
+            return False
 
-        for c1, c2 in zip(s,t):
-            if((c1 in mapST and mapST[c1] != c2) or
-               (c2 in mapTS and mapTS[c2] != c1)):
-               return False
-            mapST[c1] = c2
-            mapTS[c2] = c1
+        map_st = {}
+        map_ts = {}
+
+        for i in range(len(s)):
+            char_s = s[i]
+            char_t = t[i]
+
+            if char_s in map_st and map_st[char_s] != char_t:
+                return False
+
+            if char_t in map_ts and map_ts[char_t] != char_s:
+                return False
+
+            map_st[char_s] = char_t
+            map_ts[char_t] = char_s
+
         return True
