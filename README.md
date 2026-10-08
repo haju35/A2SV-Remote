@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/haju35/A2SV-Remote/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/haju35/A2SV-Remote/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/haju35/A2SV-Remote/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/haju35/A2SV-Remote/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/haju35/A2SV-Remote/tree/master/0056-merge-intervals) |
 | [0078-subsets](https://github.com/haju35/A2SV-Remote/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/haju35/A2SV-Remote/tree/master/0088-merge-sorted-array) |
@@ -356,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/haju35/A2SV-Remote/tree/master/0053-maximum-subarray) |
 | [0148-sort-list](https://github.com/haju35/A2SV-Remote/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/haju35/A2SV-Remote/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/haju35/A2SV-Remote/tree/master/0215-kth-largest-element-in-an-array) |
@@ -408,6 +410,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/haju35/A2SV-Remote/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/haju35/A2SV-Remote/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/haju35/A2SV-Remote/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/haju35/A2SV-Remote/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/haju35/A2SV-Remote/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0140-word-break-ii](https://github.com/haju35/A2SV-Remote/tree/master/0140-word-break-ii) |
 | [0392-is-subsequence](https://github.com/haju35/A2SV-Remote/tree/master/0392-is-subsequence) |
