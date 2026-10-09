@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0500-keyboard-row](https://github.com/haju35/A2SV-Remote/tree/master/0500-keyboard-row) |
 | [0567-permutation-in-string](https://github.com/haju35/A2SV-Remote/tree/master/0567-permutation-in-string) |
 | [0874-backspace-string-compare](https://github.com/haju35/A2SV-Remote/tree/master/0874-backspace-string-compare) |
+| [0966-vowel-spellchecker](https://github.com/haju35/A2SV-Remote/tree/master/0966-vowel-spellchecker) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/haju35/A2SV-Remote/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1169-invalid-transactions](https://github.com/haju35/A2SV-Remote/tree/master/1169-invalid-transactions) |
 | [1894-merge-strings-alternately](https://github.com/haju35/A2SV-Remote/tree/master/1894-merge-strings-alternately) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0883-car-fleet](https://github.com/haju35/A2SV-Remote/tree/master/0883-car-fleet) |
 | [0888-fair-candy-swap](https://github.com/haju35/A2SV-Remote/tree/master/0888-fair-candy-swap) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/haju35/A2SV-Remote/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
+| [0966-vowel-spellchecker](https://github.com/haju35/A2SV-Remote/tree/master/0966-vowel-spellchecker) |
 | [1169-invalid-transactions](https://github.com/haju35/A2SV-Remote/tree/master/1169-invalid-transactions) |
 | [1402-reducing-dishes](https://github.com/haju35/A2SV-Remote/tree/master/1402-reducing-dishes) |
 | [1403-minimum-subsequence-in-non-increasing-order](https://github.com/haju35/A2SV-Remote/tree/master/1403-minimum-subsequence-in-non-increasing-order) |
@@ -196,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0706-design-hashmap](https://github.com/haju35/A2SV-Remote/tree/master/0706-design-hashmap) |
 | [0888-fair-candy-swap](https://github.com/haju35/A2SV-Remote/tree/master/0888-fair-candy-swap) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/haju35/A2SV-Remote/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
+| [0966-vowel-spellchecker](https://github.com/haju35/A2SV-Remote/tree/master/0966-vowel-spellchecker) |
 | [1169-invalid-transactions](https://github.com/haju35/A2SV-Remote/tree/master/1169-invalid-transactions) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/haju35/A2SV-Remote/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1635-number-of-good-pairs](https://github.com/haju35/A2SV-Remote/tree/master/1635-number-of-good-pairs) |
