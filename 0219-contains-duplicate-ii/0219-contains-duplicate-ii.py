@@ -1,5 +1,5 @@
 class Solution:
-    def containsNearbyDuplicate(self, nums: List[int], k: int) -> bool:
+    def containsNearbyDuplicate(self, nums: list[int], k: int) -> bool:
         window = set()
         L = 0
 
@@ -11,4 +11,6 @@ class Solution:
                 return True
             window.add(nums[R])
         return False
+
+
         
