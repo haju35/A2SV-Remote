@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/haju35/A2SV-Remote/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/haju35/A2SV-Remote/tree/master/0043-multiply-strings) |
 | [0060-permutation-sequence](https://github.com/haju35/A2SV-Remote/tree/master/0060-permutation-sequence) |
+| [0069-sqrtx](https://github.com/haju35/A2SV-Remote/tree/master/0069-sqrtx) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/haju35/A2SV-Remote/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0168-excel-sheet-column-title](https://github.com/haju35/A2SV-Remote/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/haju35/A2SV-Remote/tree/master/0171-excel-sheet-column-number) |
@@ -404,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/haju35/A2SV-Remote/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/haju35/A2SV-Remote/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/haju35/A2SV-Remote/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/haju35/A2SV-Remote/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/haju35/A2SV-Remote/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0222-count-complete-tree-nodes](https://github.com/haju35/A2SV-Remote/tree/master/0222-count-complete-tree-nodes) |
 | [0349-intersection-of-two-arrays](https://github.com/haju35/A2SV-Remote/tree/master/0349-intersection-of-two-arrays) |
@@ -597,4 +599,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0334-increasing-triplet-subsequence](https://github.com/haju35/A2SV-Remote/tree/master/0334-increasing-triplet-subsequence) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/haju35/A2SV-Remote/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
