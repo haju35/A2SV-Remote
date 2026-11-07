@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/haju35/A2SV-Remote/tree/master/0412-fizz-buzz) |
 | [0424-longest-repeating-character-replacement](https://github.com/haju35/A2SV-Remote/tree/master/0424-longest-repeating-character-replacement) |
 | [0500-keyboard-row](https://github.com/haju35/A2SV-Remote/tree/master/0500-keyboard-row) |
+| [0520-detect-capital](https://github.com/haju35/A2SV-Remote/tree/master/0520-detect-capital) |
 | [0567-permutation-in-string](https://github.com/haju35/A2SV-Remote/tree/master/0567-permutation-in-string) |
 | [0874-backspace-string-compare](https://github.com/haju35/A2SV-Remote/tree/master/0874-backspace-string-compare) |
 | [0966-vowel-spellchecker](https://github.com/haju35/A2SV-Remote/tree/master/0966-vowel-spellchecker) |
