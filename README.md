@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/haju35/A2SV-Remote/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/haju35/A2SV-Remote/tree/master/0056-merge-intervals) |
 | [0078-subsets](https://github.com/haju35/A2SV-Remote/tree/master/0078-subsets) |
+| [0085-maximal-rectangle](https://github.com/haju35/A2SV-Remote/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/haju35/A2SV-Remote/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/haju35/A2SV-Remote/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/haju35/A2SV-Remote/tree/master/0128-longest-consecutive-sequence) |
@@ -266,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/haju35/A2SV-Remote/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/haju35/A2SV-Remote/tree/master/0042-trapping-rain-water) |
 | [0071-simplify-path](https://github.com/haju35/A2SV-Remote/tree/master/0071-simplify-path) |
+| [0085-maximal-rectangle](https://github.com/haju35/A2SV-Remote/tree/master/0085-maximal-rectangle) |
 | [0144-binary-tree-preorder-traversal](https://github.com/haju35/A2SV-Remote/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/haju35/A2SV-Remote/tree/master/0145-binary-tree-postorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/haju35/A2SV-Remote/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -283,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/haju35/A2SV-Remote/tree/master/0042-trapping-rain-water) |
+| [0085-maximal-rectangle](https://github.com/haju35/A2SV-Remote/tree/master/0085-maximal-rectangle) |
 | [0496-next-greater-element-i](https://github.com/haju35/A2SV-Remote/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/haju35/A2SV-Remote/tree/master/0739-daily-temperatures) |
 | [0883-car-fleet](https://github.com/haju35/A2SV-Remote/tree/master/0883-car-fleet) |
@@ -404,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/haju35/A2SV-Remote/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/haju35/A2SV-Remote/tree/master/0037-sudoku-solver) |
 | [0054-spiral-matrix](https://github.com/haju35/A2SV-Remote/tree/master/0054-spiral-matrix) |
+| [0085-maximal-rectangle](https://github.com/haju35/A2SV-Remote/tree/master/0085-maximal-rectangle) |
 | [0200-number-of-islands](https://github.com/haju35/A2SV-Remote/tree/master/0200-number-of-islands) |
 ## Union Find
 |  |
@@ -430,6 +434,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/haju35/A2SV-Remote/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/haju35/A2SV-Remote/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/haju35/A2SV-Remote/tree/master/0053-maximum-subarray) |
+| [0085-maximal-rectangle](https://github.com/haju35/A2SV-Remote/tree/master/0085-maximal-rectangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/haju35/A2SV-Remote/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0140-word-break-ii](https://github.com/haju35/A2SV-Remote/tree/master/0140-word-break-ii) |
 | [0392-is-subsequence](https://github.com/haju35/A2SV-Remote/tree/master/0392-is-subsequence) |
