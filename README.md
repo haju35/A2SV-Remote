@@ -294,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/haju35/A2SV-Remote/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/haju35/A2SV-Remote/tree/master/0021-merge-two-sorted-lists) |
+| [0024-swap-nodes-in-pairs](https://github.com/haju35/A2SV-Remote/tree/master/0024-swap-nodes-in-pairs) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/haju35/A2SV-Remote/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/haju35/A2SV-Remote/tree/master/0141-linked-list-cycle) |
 | [0147-insertion-sort-list](https://github.com/haju35/A2SV-Remote/tree/master/0147-insertion-sort-list) |
@@ -488,6 +489,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/haju35/A2SV-Remote/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/haju35/A2SV-Remote/tree/master/0021-merge-two-sorted-lists) |
+| [0024-swap-nodes-in-pairs](https://github.com/haju35/A2SV-Remote/tree/master/0024-swap-nodes-in-pairs) |
 | [0060-permutation-sequence](https://github.com/haju35/A2SV-Remote/tree/master/0060-permutation-sequence) |
 | [0231-power-of-two](https://github.com/haju35/A2SV-Remote/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/haju35/A2SV-Remote/tree/master/0342-power-of-four) |
